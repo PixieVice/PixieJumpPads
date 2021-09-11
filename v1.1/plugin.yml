@@ -1,0 +1,9 @@
+version: 1.0
+name: PixieJumpPads
+author: PixieWorkShop
+main: net.pixievice.jumppads.Main
+api-version: 1.13
+
+commands:
+  pjumppad:
+    aliases: [pjp]

@@ -1,0 +1,12 @@
+######################################
+# PixieJumpPads by the PixieWorkShop #
+######################################
+
+JumpPads:
+    jump-sound: true # allow jump sound on jumppad use. #
+    jump-effect: true # allow particle effect on jumppad use. #
+    disable-fall-damage: true # if player-heath is true, this does not matter. #
+    block: SLIME_BLOCK # automatically activated when a player walks on this block #
+
+# Do Not Touch -_- #
+config-version: 1.0
